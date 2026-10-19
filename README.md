@@ -22,7 +22,6 @@ and a practice cell after every lesson so you actually *use* what you just read.
 <img src="https://img.shields.io/github/last-commit/mahfuzswe/python-for-ml-researchers?style=flat-square&color=58A6FF" alt="Last commit">
 <img src="https://img.shields.io/badge/PRs-welcome-3FB950?style=flat-square" alt="PRs welcome">
 
-**[▶ Watch the 40-second trailer](assets/tvc_16x9.mp4)** &nbsp;·&nbsp;
 **[Quick start](#-quick-start)** &nbsp;·&nbsp;
 **[Course map](#%EF%B8%8F-course-map)** &nbsp;·&nbsp;
 **[3-hour plan](#%EF%B8%8F-a-3-hour-study-plan)**
