@@ -16,8 +16,8 @@ and a practice cell after every lesson so you actually *use* what you just read.
 
 <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.10+">
 <img src="https://img.shields.io/badge/Jupyter-notebook-F37726?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
-<img src="https://img.shields.io/badge/chapters-26-FFD43B?style=flat-square" alt="26 chapters">
-<img src="https://img.shields.io/badge/time-2--3%20hours-3FB950?style=flat-square" alt="2-3 hours">
+<img src="https://img.shields.io/badge/chapters-30-FFD43B?style=flat-square" alt="30 chapters">
+<img src="https://img.shields.io/badge/time-3--4%20hours-3FB950?style=flat-square" alt="3-4 hours">
 <img src="https://img.shields.io/github/stars/mahfuzswe/python-for-ml-researchers?style=flat-square&color=FFD43B" alt="GitHub stars">
 <img src="https://img.shields.io/github/last-commit/mahfuzswe/python-for-ml-researchers?style=flat-square&color=58A6FF" alt="Last commit">
 <img src="https://img.shields.io/badge/PRs-welcome-3FB950?style=flat-square" alt="PRs welcome">
@@ -152,17 +152,23 @@ jupyter lab Python_Recap_for_ML_Researchers.ipynb
 | | **E · Research toolkit** | | | **~25 min** |
 | 25 | Power tools | generators, context managers, logging, `%timeit`, matplotlib | a mini DataLoader, training curves | 10 |
 | 26 | 🏁 Capstone | logistic regression from scratch | gradient descent, metrics, decision boundary | 12 |
+| | **F · NLP & text processing** | | | **~45 min** |
+| 27 | Tokenization & normalization | regex, lowercasing, contractions | prompt inputs, clean strings | 8 |
+| 28 | Vocabulary & token-to-ID | `<pad>`, `<unk>`, `Vocabulary` class | tensor-ready encoding, PyTorch embeddings | 10 |
+| 29 | Vectorization (BoW & TF-IDF) | term frequency, smoothed IDF, L2 norm | document matrices in pure NumPy | 12 |
+| 30 | 🏁 NLP Capstone | peer-review sentiment classifier | end-to-end classification pipeline | 14 |
 
 <br>
 
-## ⏱️ A 3-hour study plan
+## ⏱️ A 4-hour study plan
 
 | Session | Chapters | Time | Break |
 |---|---|:-:|---|
 | **1 · Warm-up** | Part A (1–8) | 45 min | ☕ 10 min |
 | **2 · Thinking in code** | Part B (9–14) | 40 min | 🚶 5 min |
 | **3 · Make it robust** | Part C (15–20) | 30 min | ☕ 10 min |
-| **4 · The ML stack** | Part D (21–24) + Part E (25–26) | 65 min | 🎉 done |
+| **4 · The ML stack** | Part D (21–24) + Part E (25–26) | 65 min | ☕ 10 min |
+| **5 · NLP foundations** | Part F (27–30) | 45 min | 🎉 done |
 
 <br>
 
